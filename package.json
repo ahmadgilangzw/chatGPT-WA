@@ -1,5 +1,6 @@
 {
   "author": "AGZW",
+  "main": "./index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
